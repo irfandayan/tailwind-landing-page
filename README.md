@@ -1,4 +1,4 @@
-<h1><a href="https://peaceful-pothos-0db572.netlify.app/"> Live Site </a></h1>
+<h1><a href="https://managehelps.netlify.app/"> Live Site </a></h1>
 
 <h2>Landing Page APP - TailwindCSS</h2>
 
